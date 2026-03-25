@@ -1,4 +1,4 @@
-**📊 Sales Intelligence & Customer Analytics**
+**📊 Customer Churn Reduction - A-B Testing - Retention-Analytics**
 A customer analytics case study where insights lead to decisions and not just dashboards.
 
 Data Analyst & Business Analyst Project – SQL • Power BI • Customer Insights • A/B Testing • Decision Support
