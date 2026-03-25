@@ -40,7 +40,7 @@ Which customer segments should receive targeted upsell or reactivation campaigns
 Where should the company focus to grow high-value, repeat-purchase customers?
 
 📍 dashboards/Customer Behavior dashboard.pbix
-📸 ![Customer Behavior Dashboard](dashboards/screenshots/customer behavior.png)
+📸 ![Customer Behavior Dashboard](https://raw.githubusercontent.com/swatiLalwani/sales-intelligence-customer-analytics/main/dashboards/screenshots/customer%20behavior.png)
 
 Churn & Retention Dashboard:
 Churn vs retention %
