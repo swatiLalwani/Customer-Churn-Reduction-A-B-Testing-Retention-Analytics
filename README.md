@@ -40,7 +40,7 @@ Which customer segments should receive targeted upsell or reactivation campaigns
 Where should the company focus to grow high-value, repeat-purchase customers?
 
 📍 dashboards/Customer Behavior dashboard.pbix
-📸 ![Customer Behavior Dashboard](dashboards/screenshots/customer_behavior.png)
+📸 ![Customer Behavior Dashboard](dashboards/screenshots/customer behavior.png)
 
 Churn & Retention Dashboard:
 Churn vs retention %
@@ -53,7 +53,7 @@ Supports decisions like:
 Which customers to re-engage immediately based on inactivity?
 How much revenue is currently at risk if no action is taken?
 📍 dashboards/Customer churn dashboard.pbix
-📸 ![Churn & Retention Dashboard](dashboards/screenshots/customer_churn.png)
+📸 ![Churn & Retention Dashboard](dashboards/screenshots/customer_churn.png) dashboards/screenshots/customer churn.png
 
 **🧪 A/B Test – Retention Offer Impact:**
 | Step                     | File                                      |
