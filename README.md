@@ -53,7 +53,7 @@ Supports decisions like:
 Which customers to re-engage immediately based on inactivity?
 How much revenue is currently at risk if no action is taken?
 📍 dashboards/Customer churn dashboard.pbix
-📸 ![Churn & Retention Dashboard](dashboards/screenshots/customer_churn.png)
+📸 ![Churn & Retention Dashboard](dashboards/screenshots/customer churn.png)
 
 **🧪 A/B Test – Retention Offer Impact:**
 | Step                     | File                                      |
